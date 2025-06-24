@@ -1,7 +1,8 @@
 # Data-Science-in-Journalism
-Project Title: Data Science for Ethical Journalism: A Values-Driven Technical Solution
+
+## Project Title: Data Science for Ethical Journalism: A Values-Driven Technical Solution
 Built For: TechTangle: Research Edition
-Team: Chinmayee R. & Rutuja
+## Team: Chinmayee Randive & Rutuja Gherde
 
 🧠 Overview:
 This project explores how core principles of ethical journalism — Truth, Independence, Fairness, Humanity, and Accountability — can be programmatically upheld using transparent, non-AI data science techniques.
